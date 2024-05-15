@@ -1,0 +1,4 @@
+Sobrecarga:
+Permite métodos com o mesmo nome, mas diferentes assinaturas (parâmetros, tipos de parâmetros ou tipo de retorno).
+Não há relação de herança entre os métodos.
+O compilador Java escolhe qual método chamar com base nos tipos dos argumentos passados.
