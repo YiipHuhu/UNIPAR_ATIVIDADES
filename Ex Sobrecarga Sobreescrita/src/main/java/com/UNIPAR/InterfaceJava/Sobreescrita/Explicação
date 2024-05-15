@@ -1,0 +1,4 @@
+Sobreescrita:
+Permite que uma subclasse redefina a implementação de um método herdado de sua superclasse.
+Os métodos devem ter a mesma assinatura (nome, parâmetros, tipo de retorno).
+O compilador Java chama a implementação do método definida na subclasse mais específica.
